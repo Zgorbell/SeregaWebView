@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SeregaApp.iml" filepath="$PROJECT_DIR$/SeregaApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SeregaWebView-master.iml" filepath="$PROJECT_DIR$/SeregaWebView-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
